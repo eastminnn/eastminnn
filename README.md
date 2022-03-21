@@ -19,13 +19,6 @@
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 <br>
-<h3 align="center">🪄 Blog 🪄</h3>
-
-<div align="center" style="text-align:center">
-
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=꿀팁)](https://velog.io/@woo0_hooo)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
 
 </div>
   
