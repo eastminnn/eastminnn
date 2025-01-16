@@ -21,4 +21,4 @@
 </p>
 <br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eastminn&color=dark)](https://github.com/eastminn/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=eastminn)](https://velog.io/@eastminn)
