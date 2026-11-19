@@ -17,7 +17,7 @@
 
 ## Open Source
 
-- [ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) ★67k · [#690](https://github.com/ai-job-search-dev/ai-job-search/pull/690) merged
+- [ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) ★72k · [#690](https://github.com/ai-job-search-dev/ai-job-search/pull/690) merged
   - 비 UTF-8 채용공고가 깨진 채로 프롬프트 인젝션 검사를 통과하던 버그 수정
 
 
